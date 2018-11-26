@@ -1,2 +1,4 @@
 # effective_python
-python练习
+
+## 目的
+优雅的使用python
